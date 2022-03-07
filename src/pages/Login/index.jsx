@@ -124,7 +124,7 @@ export default function Login() {
         </Button>
         {/* 底部说明区域 */}
         <div className="footer">
-          未注册的手机号，验证后会自动创建硅谷账号，登录即代表您同意
+          未注册的手机号，验证后会自动创建账号，登录即代表您同意
           <a href="http://www.baidu.com">《隐私协议》</a>
         </div>
       </div>
